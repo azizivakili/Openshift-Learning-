@@ -4,7 +4,7 @@
 
 
 
-#### Rolling update
+##### Rolling update
 ```
 strategy:
   type: RollingUpdate
